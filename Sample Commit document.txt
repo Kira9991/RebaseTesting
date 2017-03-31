@@ -3,7 +3,10 @@
 Sample commits created. initial branch off point
 
 
+
 --- COMMIT C3 ---
 Amending commit C2 due to errors
 
+--- COMMIT C4 ---
+Feature 2 commit, changing the commits to feature 2.
 
