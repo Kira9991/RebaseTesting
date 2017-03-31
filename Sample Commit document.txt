@@ -1,3 +1,8 @@
 --- COMMIT C1 ---
 
 Sample commits created. initial branch off point
+
+
+
+--- COMMIT C4 ---
+Feature 2 commit, changing the commits to feature 2.
