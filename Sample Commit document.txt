@@ -3,4 +3,7 @@
 Sample commits created. initial branch off point
 
 
---- COMMIT C1 ---
+--- COMMIT C3 ---
+Amending commit C2 due to errors
+
+
